@@ -12,7 +12,7 @@ Para imprimir el contenido de una variable también utilizamos el comando echo:
 
 echo $num;
  */
-
+//Hector Analuisa
 $num = rand(1,100);
 
 echo "El numero es:  $num"; 
